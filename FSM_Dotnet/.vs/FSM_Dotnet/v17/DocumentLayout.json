@@ -1,0 +1,220 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\UniqueUlysees\\Desktop\\Work\\FSM_Dotnet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDD415E-A90B-4AF3-B713-AFB1CAD36248}|FSM_Dotnet.csproj|c:\\users\\uniqueulysees\\desktop\\work\\fsm_dotnet\\exampleentitydescription.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ECDD415E-A90B-4AF3-B713-AFB1CAD36248}|FSM_Dotnet.csproj|solutionrelative:exampleentitydescription.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDD415E-A90B-4AF3-B713-AFB1CAD36248}|FSM_Dotnet.csproj|c:\\users\\uniqueulysees\\desktop\\work\\fsm_dotnet\\models\\fsm\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECDD415E-A90B-4AF3-B713-AFB1CAD36248}|FSM_Dotnet.csproj|solutionrelative:models\\fsm\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDD415E-A90B-4AF3-B713-AFB1CAD36248}|FSM_Dotnet.csproj|c:\\users\\uniqueulysees\\desktop\\work\\fsm_dotnet\\models\\exampleentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECDD415E-A90B-4AF3-B713-AFB1CAD36248}|FSM_Dotnet.csproj|solutionrelative:models\\exampleentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79AF4E71-A1B6-45B6-A8DF-C0F50AF87807}|TestApp\\TestApp.csproj|c:\\users\\uniqueulysees\\desktop\\work\\fsm_dotnet\\testapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79AF4E71-A1B6-45B6-A8DF-C0F50AF87807}|TestApp\\TestApp.csproj|solutionrelative:testapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDD415E-A90B-4AF3-B713-AFB1CAD36248}|FSM_Dotnet.csproj|c:\\users\\uniqueulysees\\desktop\\work\\fsm_dotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECDD415E-A90B-4AF3-B713-AFB1CAD36248}|FSM_Dotnet.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDD415E-A90B-4AF3-B713-AFB1CAD36248}|FSM_Dotnet.csproj|c:\\users\\uniqueulysees\\desktop\\work\\fsm_dotnet\\fsm_extenalactions\\statemachinemodifyaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECDD415E-A90B-4AF3-B713-AFB1CAD36248}|FSM_Dotnet.csproj|solutionrelative:fsm_extenalactions\\statemachinemodifyaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDD415E-A90B-4AF3-B713-AFB1CAD36248}|FSM_Dotnet.csproj|c:\\users\\uniqueulysees\\desktop\\work\\fsm_dotnet\\models\\fsm\\csharpruntime\\compiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECDD415E-A90B-4AF3-B713-AFB1CAD36248}|FSM_Dotnet.csproj|solutionrelative:models\\fsm\\csharpruntime\\compiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDD415E-A90B-4AF3-B713-AFB1CAD36248}|FSM_Dotnet.csproj|c:\\users\\uniqueulysees\\desktop\\work\\fsm_dotnet\\models\\fsm\\csharpruntime\\csharpruntime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECDD415E-A90B-4AF3-B713-AFB1CAD36248}|FSM_Dotnet.csproj|solutionrelative:models\\fsm\\csharpruntime\\csharpruntime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79AF4E71-A1B6-45B6-A8DF-C0F50AF87807}|TestApp\\TestApp.csproj|c:\\users\\uniqueulysees\\desktop\\work\\fsm_dotnet\\testapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{79AF4E71-A1B6-45B6-A8DF-C0F50AF87807}|TestApp\\TestApp.csproj|solutionrelative:testapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79AF4E71-A1B6-45B6-A8DF-C0F50AF87807}|TestApp\\TestApp.csproj|c:\\users\\uniqueulysees\\desktop\\work\\fsm_dotnet\\testapp\\providers\\statemachinefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79AF4E71-A1B6-45B6-A8DF-C0F50AF87807}|TestApp\\TestApp.csproj|solutionrelative:testapp\\providers\\statemachinefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "State.cs",
+              "DocumentMoniker": "C:\\Users\\UniqueUlysees\\Desktop\\Work\\FSM_Dotnet\\Models\\FSM\\State.cs",
+              "RelativeDocumentMoniker": "Models\\FSM\\State.cs",
+              "ToolTip": "C:\\Users\\UniqueUlysees\\Desktop\\Work\\FSM_Dotnet\\Models\\FSM\\State.cs",
+              "RelativeToolTip": "Models\\FSM\\State.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:46:00.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExampleEntity.cs",
+              "DocumentMoniker": "C:\\Users\\UniqueUlysees\\Desktop\\Work\\FSM_Dotnet\\Models\\ExampleEntity.cs",
+              "RelativeDocumentMoniker": "Models\\ExampleEntity.cs",
+              "ToolTip": "C:\\Users\\UniqueUlysees\\Desktop\\Work\\FSM_Dotnet\\Models\\ExampleEntity.cs",
+              "RelativeToolTip": "Models\\ExampleEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:30:52.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\UniqueUlysees\\Desktop\\Work\\FSM_Dotnet\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\UniqueUlysees\\Desktop\\Work\\FSM_Dotnet\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwDAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:38:23.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StateMachineModifyAction.cs",
+              "DocumentMoniker": "C:\\Users\\UniqueUlysees\\Desktop\\Work\\FSM_Dotnet\\FSM_ExtenalActions\\StateMachineModifyAction.cs",
+              "RelativeDocumentMoniker": "FSM_ExtenalActions\\StateMachineModifyAction.cs",
+              "ToolTip": "C:\\Users\\UniqueUlysees\\Desktop\\Work\\FSM_Dotnet\\FSM_ExtenalActions\\StateMachineModifyAction.cs",
+              "RelativeToolTip": "FSM_ExtenalActions\\StateMachineModifyAction.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:38:17.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CSharpRuntime.cs",
+              "DocumentMoniker": "C:\\Users\\UniqueUlysees\\Desktop\\Work\\FSM_Dotnet\\Models\\FSM\\CSharpRuntime\\CSharpRuntime.cs",
+              "RelativeDocumentMoniker": "Models\\FSM\\CSharpRuntime\\CSharpRuntime.cs",
+              "ToolTip": "C:\\Users\\UniqueUlysees\\Desktop\\Work\\FSM_Dotnet\\Models\\FSM\\CSharpRuntime\\CSharpRuntime.cs",
+              "RelativeToolTip": "Models\\FSM\\CSharpRuntime\\CSharpRuntime.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:30:44.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Compiler.cs",
+              "DocumentMoniker": "C:\\Users\\UniqueUlysees\\Desktop\\Work\\FSM_Dotnet\\Models\\FSM\\CSharpRuntime\\Compiler.cs",
+              "RelativeDocumentMoniker": "Models\\FSM\\CSharpRuntime\\Compiler.cs",
+              "ToolTip": "C:\\Users\\UniqueUlysees\\Desktop\\Work\\FSM_Dotnet\\Models\\FSM\\CSharpRuntime\\Compiler.cs",
+              "RelativeToolTip": "Models\\FSM\\CSharpRuntime\\Compiler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:29:39.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\UniqueUlysees\\Desktop\\Work\\FSM_Dotnet\\TestApp\\appsettings.json",
+              "RelativeDocumentMoniker": "TestApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\UniqueUlysees\\Desktop\\Work\\FSM_Dotnet\\TestApp\\appsettings.json",
+              "RelativeToolTip": "TestApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-19T13:28:16.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\UniqueUlysees\\Desktop\\Work\\FSM_Dotnet\\TestApp\\Program.cs",
+              "RelativeDocumentMoniker": "TestApp\\Program.cs",
+              "ToolTip": "C:\\Users\\UniqueUlysees\\Desktop\\Work\\FSM_Dotnet\\TestApp\\Program.cs",
+              "RelativeToolTip": "TestApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:28:10.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "exampleentitydescription.json",
+              "DocumentMoniker": "C:\\Users\\UniqueUlysees\\Desktop\\Work\\FSM_Dotnet\\exampleentitydescription.json",
+              "RelativeDocumentMoniker": "exampleentitydescription.json",
+              "ToolTip": "C:\\Users\\UniqueUlysees\\Desktop\\Work\\FSM_Dotnet\\exampleentitydescription.json*",
+              "RelativeToolTip": "exampleentitydescription.json*",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAEMAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-19T13:26:40.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StateMachineFactory.cs",
+              "DocumentMoniker": "C:\\Users\\UniqueUlysees\\Desktop\\Work\\FSM_Dotnet\\TestApp\\Providers\\StateMachineFactory.cs",
+              "RelativeDocumentMoniker": "TestApp\\Providers\\StateMachineFactory.cs",
+              "ToolTip": "C:\\Users\\UniqueUlysees\\Desktop\\Work\\FSM_Dotnet\\TestApp\\Providers\\StateMachineFactory.cs",
+              "RelativeToolTip": "TestApp\\Providers\\StateMachineFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T13:47:58.106Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+    "Nodes": {
+        "initial": {
+            "NodeId": "initial",
+            "EntryConditions": [
+                {
+                    "Invokable": "return true;"
+                }
+            ],
+            "EntryActions": [
+                {
+                    "Invokable": "Console.WriteLine(\"initital Entry\");"
+                }
+            ],
+            "ExitConditions": [
+              {
+                "Invokable": "return true;"
+              }
+            ],
+            "ExitActions": [
+                {
+                    "Invokable": "Console.WriteLine(\"initital Exit\");"
+                }
+            ],
+            "NodeModifyActionHandler": {
+
+            }
+        },
+        "end": {
+            "NodeId": "end",
+            "EntryConditions": [
+                {
+                    "Invokable": "return true;"
+                }
+            ],
+            "EntryActions": [
+                {
+                    "Invokable": "Console.WriteLine(\"end Entry\");"
+                }
+            ],
+            "ExitConditions": [
+                {
+                    "Invokable": "return true;"
+                }
+            ],
+            "ExitActions": [
+                {
+                    "Invokable": "Console.WriteLine(\"end Exit\");"
+                }
+            ],
+            "NodeModifyActionHandler": {
+
+            }
+        }
+    },
+    "AllowedTransitions": {
+        "initial": [
+            "end"
+        ],
+        "end": [
+            "initial"
+        ]
+    }
+}
